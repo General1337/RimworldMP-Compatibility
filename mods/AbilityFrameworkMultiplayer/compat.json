@@ -1,0 +1,8 @@
+{
+ "title": "Ability Framework",
+ "mod": "A RimWorld of Magic (Continued) and other mods on its ability framework",
+ "workshop": "",
+ "status": "partial",
+ "covers": "Spell casting goes through the host: spell verbs, cooldowns and ability data stay the same for every player.",
+ "missing": "Not every spell, custom class or mod version is covered."
+}

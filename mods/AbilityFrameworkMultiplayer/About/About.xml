@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Ability Framework - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.abilityframework</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <loadAfter><li>rimworld.multiplayer</li><li>zal.jecsliterwom</li></loadAfter>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+  </modDependencies>
+  <description>Multiplayer compatibility add-on for A RimWorld of Magic (Continued) and other mods on its ability framework. Spell casting goes through the host: spell verbs, cooldowns and ability data stay the same for every player.</description>
+</ModMetaData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Progression: Scenarios - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.progressionscenarios.creation</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>ferny.progressionscenarios</packageId><displayName>Progression: Scenarios</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3378384387</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>ferny.progressionscenarios</li><li>rimworld.multiplayer</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Progression: Scenarios. Picking a scenario with the tech filter when starting a separate colony, kept through save and rehost.</description>
+</ModMetaData>

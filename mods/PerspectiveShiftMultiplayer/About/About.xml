@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Perspective Shift - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>RimworldMultiplayer.PerspectiveShift</packageId>
+  <supportedVersions><li>1.6</li><li>1.7</li></supportedVersions>
+  <description>Multiplayer compatibility add-on for Perspective Shift. Every player can inhabit their own pawn at the same time.</description>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>ferny.PerspectiveShift</packageId><displayName>Perspective Shift</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3686618980</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>Rimworld.Multiplayer</li><li>ferny.PerspectiveShift</li><li>brrainz.harmony</li></loadAfter>
+</ModMetaData>

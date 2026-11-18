@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Dubs Paint Shop - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.dubspaintgrid</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>dubwise.dubspaintshop</packageId><displayName>Dubs Paint Shop</displayName></li>
+  </modDependencies>
+  <loadAfter><li>dubwise.dubspaintshop</li><li>rimworld.multiplayer</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Dubs Paint Shop. Speeds up paint grid comparisons in multiplayer by reusing unchanged floor grids.</description>
+</ModMetaData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Modular Weapons 2 - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.modularweapons2</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName></li>
+    <li><packageId>kaitorisenkou.modularweapons2</packageId><displayName>Modular Weapons 2</displayName></li>
+  </modDependencies>
+  <loadAfter><li>rimworld.multiplayer</li><li>kaitorisenkou.modularweapons2</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Modular Weapons 2. Stops the loading popup that players saw during ordinary firing.</description>
+</ModMetaData>

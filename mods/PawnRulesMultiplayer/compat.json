@@ -1,0 +1,7 @@
+{
+ "mod": "Pawn Rules",
+ "workshop": "3024243615",
+ "status": "partial",
+ "covers": "Creating, editing and applying rule presets, kept through save/load and rejoin.",
+ "missing": "Restrictions, defaults, rename, delete and import are not covered. Needs a Rimworld Multiplayer host change that is not released yet."
+}

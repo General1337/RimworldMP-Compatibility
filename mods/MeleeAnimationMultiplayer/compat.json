@@ -1,0 +1,7 @@
+{
+ "mod": "Melee Animation 1.7 (Unofficial)",
+ "workshop": "3825342740",
+ "status": "broken",
+ "covers": "Attempt to keep melee animations drawing the same on every player's game.",
+ "missing": "Does not work: a player's sword position breaks after the first draft/undraft. Kept as a starting point."
+}

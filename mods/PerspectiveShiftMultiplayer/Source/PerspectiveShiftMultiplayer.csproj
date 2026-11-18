@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Target framework, game and Harmony references and the library come from
+       ../../Directory.Build.props. Output: ../Assemblies -->
+  <PropertyGroup>
+    <AssemblyName>PerspectiveShiftMultiplayer</AssemblyName>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>

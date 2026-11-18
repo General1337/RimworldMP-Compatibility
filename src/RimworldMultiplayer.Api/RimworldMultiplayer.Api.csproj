@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Rimworld Multiplayer library. No dependency on the multiplayer mod: without it
+       every call does nothing and your mod runs as in single player. -->
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>RimworldMultiplayer.Api</AssemblyName>
+    <RootNamespace>RimworldMultiplayer.Api</RootNamespace>
+    <Version>6.0.0</Version>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+ "mod": "Animal Genetics",
+ "workshop": "2830943477",
+ "status": "partial",
+ "covers": "Animal gene records are saved and shared by the host, so every player sees the same genes.",
+ "missing": "Other Animal Genetics windows and settings are not covered.",
+ "packageId": "rimworldmultiplayer.animalgenetics"
+}

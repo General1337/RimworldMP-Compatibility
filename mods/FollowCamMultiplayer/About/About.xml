@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Follow Cam - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.followcam</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName></li>
+    <li><packageId>rodion.followcam</packageId><displayName>Follow Cam</displayName></li>
+  </modDependencies>
+  <loadAfter><li>rimworld.multiplayer</li><li>rodion.followcam</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Follow Cam. Each player keeps their own follow camera, preferences and follow messages.</description>
+</ModMetaData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Melee Animation 1.7 (Unofficial) - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.meleeanimation.display</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>radmiko.meleeanimation17</packageId><displayName>Melee Animation 1.7 (Unofficial)</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825342740</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>radmiko.meleeanimation17</li><li>rimworld.multiplayer</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Melee Animation 1.7 (Unofficial). Attempt to keep melee animations drawing the same on every player's game.</description>
+</ModMetaData>

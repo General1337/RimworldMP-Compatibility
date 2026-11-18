@@ -1,0 +1,7 @@
+{
+ "mod": "Raven Race",
+ "workshop": "3781005562",
+ "status": "experiment",
+ "covers": "Fixes a rare drawing error when several pawns are drawn at once.",
+ "missing": "Nothing else in Raven Race is changed."
+}

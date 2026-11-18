@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData><name>Animal Genetics - Multiplayer</name><author>Rimworld Multiplayer contributors</author><packageId>rimworldmultiplayer.animalgenetics</packageId><supportedVersions><li>1.7</li></supportedVersions><loadAfter><li>Mlie.AnimalGenetics</li><li>rimworld.multiplayer</li></loadAfter><modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+  </modDependencies><description>Multiplayer compatibility add-on for Animal Genetics. Animal gene records are saved and shared by the host, so every player sees the same genes.</description></ModMetaData>

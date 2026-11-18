@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>UI Rethemed - Work - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.lfswork</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li>
+    <li><packageId>LazyFridayStudio.UIRethemed.Work</packageId><displayName>UI Rethemed - Work</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3835296643</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>brrainz.harmony</li><li>LazyFridayStudio.UIRethemed.Work</li><li>rimworld.multiplayer</li></loadAfter>
+  <description>Multiplayer compatibility add-on for UI Rethemed - Work. Stock work templates keep their icon, order and auto-assign settings on every player's game.</description>
+</ModMetaData>

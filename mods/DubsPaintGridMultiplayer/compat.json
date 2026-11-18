@@ -1,0 +1,7 @@
+{
+ "mod": "Dubs Paint Shop",
+ "workshop": "",
+ "status": "experiment",
+ "covers": "Speeds up paint grid comparisons in multiplayer by reusing unchanged floor grids.",
+ "missing": "Painting itself is handled by a separate host pack. Needs a host pack for Dubs Paint Shop (not public yet)."
+}

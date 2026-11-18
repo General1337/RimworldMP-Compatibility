@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Raven Race - Multiplayer</name><author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.ravencache</packageId><supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li>
+    <li><packageId>zuoyao.ravenrace</packageId><displayName>Raven Race</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3781005562</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>Rimworld.Multiplayer</li><li>brrainz.harmony</li><li>zuoyao.ravenrace</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Raven Race. Fixes a rare drawing error when several pawns are drawn at once.</description>
+</ModMetaData>

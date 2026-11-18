@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Dubs Mint Menus - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.dubsmintresearch</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li>
+    <li><packageId>dubwise.dubsmintmenus</packageId><displayName>Dubs Mint Menus</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/1446523594</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>brrainz.harmony</li><li>dubwise.dubsmintmenus</li><li>rimworld.multiplayer</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Dubs Mint Menus. Cancelling the active research from the Dubs Mint research panel.</description>
+</ModMetaData>

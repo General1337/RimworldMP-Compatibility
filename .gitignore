@@ -1,0 +1,7 @@
+bin/
+obj/
+Assemblies/
+*.user
+.vs/
+.vscode/
+.idea/

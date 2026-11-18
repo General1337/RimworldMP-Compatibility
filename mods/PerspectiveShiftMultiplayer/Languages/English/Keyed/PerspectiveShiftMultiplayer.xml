@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PSMP_ControlledBy>{0} is playing this character.</PSMP_ControlledBy>
+  <PSMP_Release>Release from {0}</PSMP_Release>
+  <PSMP_ReleaseDesc>Take {1} back from {0}, who is playing this character. {0} returns to the normal view.</PSMP_ReleaseDesc>
+  <PSMP_ReleasedByHost>The host took {0} back. You are in the normal view again.</PSMP_ReleasedByHost>
+  <PSMP_PlayAs>Play as this character</PSMP_PlayAs>
+  <PSMP_PlayAsDesc>Make {0} your character for this game. In Authentic mode you keep this character.</PSMP_PlayAsDesc>
+  <PSMP_CannotInhabit>That character can't be inhabited right now.</PSMP_CannotInhabit>
+  <PSMP_Spectating>Spectators can't inhabit a character.</PSMP_Spectating>
+  <PSMP_CharacterDied>{0} has died. You can keep watching the colony.</PSMP_CharacterDied>
+  <PSMP_YourCharacterDied>Your character died. In Authentic mode you can't take another one.</PSMP_YourCharacterDied>
+  <PSMP_NotForPlayersYet>That isn't available for players in multiplayer yet.</PSMP_NotForPlayersYet>
+  <PSMP_Away>{0} (away)</PSMP_Away>
+  <PSMP_ChoiceTooLate>Too late: {0} can't talk to you right now.</PSMP_ChoiceTooLate>
+</LanguageData>

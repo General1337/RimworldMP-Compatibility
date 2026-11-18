@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Example multiplayer compatibility</name>
+  <author>You</author>
+  <packageId>example.multiplayercompat</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>Rimworld.Multiplayer</li></loadAfter>
+  <description>Example mod built with the Rimworld Multiplayer library SDK.</description>
+</ModMetaData>

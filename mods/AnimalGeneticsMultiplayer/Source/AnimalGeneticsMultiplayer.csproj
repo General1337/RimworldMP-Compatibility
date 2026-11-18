@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Target framework, game and Harmony references and the library come from
+       ../../Directory.Build.props. Output: ../Assemblies -->
+  <PropertyGroup>
+    <AssemblyName>AnimalGeneticsMultiplayer</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>
