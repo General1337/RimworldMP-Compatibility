@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Tech Advancing - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.techadvancing</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>ghxx.techadvancing</packageId><displayName>Tech Advancing</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=735268789</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>ghxx.techadvancing</li><li>brrainz.harmony</li><li>rimworld.multiplayer</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Tech Advancing. When the host's colony moves up a tech level, every player's game moves up too, and keeps it after save/load and rejoin.</description>
+</ModMetaData>

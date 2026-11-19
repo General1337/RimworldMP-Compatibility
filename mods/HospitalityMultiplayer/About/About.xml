@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hospitality (Continued) - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.hospitality</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>orion.hospitality</packageId><displayName>Hospitality (Continued)</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3509486825</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>orion.hospitality</li><li>brrainz.harmony</li><li>rimworld.multiplayer</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Hospitality (Continued). The guest tab's Try to entertain and Try to create friendships checkboxes go through the host, so every player sees the same choice. Make Default and Send away work as before.</description>
+</ModMetaData>

@@ -4,15 +4,19 @@ Make your mod, or someone else's, work in [Rimworld Multiplayer](https://steamco
 library mods use to talk to Rimworld Multiplayer, an example and a growing set of
 compatibility add-ons for popular mods.
 
+Mod creators that want to build multiplayer compatiblity natively into their mod should use this library
+Building separate compatibility should also use this library to make compatibility patches for a mod. Either give your players your compatibility mod, or upload it yourself to Steam Workshop and have them subscribe to it.
+Please submit your compatibility patches to this github, where it will be reviewed and if accepted become apart of the main mods compatibility list.
+
 License: MIT (see LICENSE).
 
 ## What is here
 
 | Folder | What it is |
 |---|---|
-| `src/RimworldMultiplayer.Api` | The library. Reference it and ship its DLL with your mod. Every public member is described in its code comments, which your editor shows. |
+| `src/RimworldMultiplayer.Api` | The library. Reference it and ship its DLL with your mod.  (If you are a mod creator, this will allow your mod to hook into RimWorld Multiplayer) |
 | `examples/ExampleCompat` | The smallest working mod: one button that syncs. |
-| `mods/` | Compatibility add-ons for other mods. [Compatible mods](#compatible-mods) lists what each one does. |
+| `mods/` | Compatibility add-ons for other mods. |
 
 ## How it works
 
@@ -42,8 +46,7 @@ Steam Workshop yourself. Everyone in the game installs it. See
 ### 3. Optional: send it in
 
 Open a pull request with your add-on. Once it's reviewed and accepted it becomes a permanent part of
-the official compatibility list ([Compatible mods](#compatible-mods)), where
-others can find it and improve it.
+the official compatibility list.
 
 ## Build
 

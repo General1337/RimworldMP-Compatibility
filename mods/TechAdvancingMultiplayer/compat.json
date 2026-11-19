@@ -1,0 +1,7 @@
+{
+ "mod": "Tech Advancing",
+ "workshop": "735268789",
+ "status": "partial",
+ "covers": "When the host's colony moves up a tech level, every player's game moves up too, and keeps it after save/load and rejoin.",
+ "missing": "Research done by a player's pawns and separate colonies are not covered."
+}

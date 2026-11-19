@@ -51,8 +51,7 @@ permanent part of the official compatibility list, and you can keep your own Wor
 
 ## Rules
 
-- Use only `RimworldMultiplayer.Api`, the game and Harmony. Don't copy code from the target mod; call
-  or patch it by name.
+- Use only `RimworldMultiplayer.Api`, the game and Harmony.
 - No DLLs in pull requests; the build makes them.
 - Every change is reviewed before it is merged.
 - By contributing you agree your code is released under the MIT license in LICENSE.

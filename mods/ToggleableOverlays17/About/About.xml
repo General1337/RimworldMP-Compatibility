@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Toggleable Overlays - Multiplayer</name>
+  <author>Rimworld Multiplayer contributors</author>
+  <packageId>rimworldmultiplayer.toggleableoverlays17</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>Rimworld.Multiplayer</packageId><displayName>Rimworld Multiplayer</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3825809806</steamWorkshopUrl></li>
+    <li><packageId>owlchemist.toggleableoverlays</packageId><displayName>Toggleable Overlays</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2608654598</steamWorkshopUrl></li>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>Rimworld.Multiplayer</li><li>owlchemist.toggleableoverlays</li><li>brrainz.harmony</li></loadAfter>
+  <description>Multiplayer compatibility add-on for Toggleable Overlays. Fixes the error that stopped Toggleable Overlays drawing on RimWorld 1.7. Works with or without Rimworld Multiplayer.</description>
+</ModMetaData>
